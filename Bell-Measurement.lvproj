@@ -3187,7 +3187,6 @@ LVDS_Ch0_DirArbitrationForOutputData=NeverArbitrate;NumberOfSyncRegistersForOutp
 </CLIPDeclarationSet></Property>
 			<Property Name="NI.LV.FPGA.CompileConfigString" Type="Str">PXIe-7976R/Clk40/falsefalseFLEXRIO_IO_MODELNI_6583_SE_and_LVDSFPGA_EXECUTION_MODEFPGA_TARGETFPGA_TARGET_CLASSPXIE_7976RFPGA_TARGET_FAMILYKINTEX7TARGET_TYPEFPGA</Property>
 			<Property Name="NI.LV.FPGA.Version" Type="Int">6</Property>
-			<Property Name="niFpga_TopLevelVIID" Type="Path">/C/Users/MYL/Desktop/BM-FPGA-lj/FPGA-Labview/Bell-Measurement/BellMeasurement.vi</Property>
 			<Property Name="Resource Name" Type="Str">RIO0</Property>
 			<Property Name="Target Class" Type="Str">PXIe-7976R</Property>
 			<Property Name="Top-Level Timing Source" Type="Str">40 MHz Onboard Clock</Property>
